@@ -1,55 +1,17 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner9.gif" alt="cover" />
-</div>
+<h1 align="center">Hi 👋, I'm Dogukan Karademir</h1>
+<h3 align="center">A passionate frontend developer from Germany</h3>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
+- 🔭 I’m currently working along the [The Odin Project](https://www.theodinproject.com/dashboard)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dogukan-sys.dogukan-sys)
+- 🌱 I’m currently learning **Frontend, Backend, Ruby on Rails**
 
+- 📫 How to reach me **Karademird67@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
-<div size='20px'> Hi! My name is dogukan. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-
-
-- 🔭 I’m currently working on The Odin Project
-
-- 🌱 I’m currently learning Frontend, Backend Developing. 
-
-- 👯 I’m looking to collaborate on  
-
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source,Web Design 
-
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/dogukan-sys?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/dogukan-sys?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/dogukan-sys?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/dogukan-sys?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<a href = 'https://www.github.com/dogukan-sys'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
-</a>
-<br>
-
-
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
-
-![Metrics](https://metrics.lecoq.io/dogukan-sys?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
-
-<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukan-sys&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="dogukan-sys" /></p>
