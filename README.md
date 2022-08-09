@@ -13,4 +13,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukan-sys&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="dogukan-sys" /></p>
 
 <!--START_SECTION:waka-->
+<img
+  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 <!--END_SECTION:waka-->
