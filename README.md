@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working along the [The Odin Project](https://www.theodinproject.com/dashboard)
 
-- 🌱 I’m currently learning **Frontend, Backend, Ruby on Rails**
+- 🌱 I’m currently learning **Frontend, Backend, NodeJS**
 
 - 📫 How to reach me **dogukan.karademir@proton.me**
 
