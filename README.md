@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dogukan Karademir</h1>
+<h1 align="center">Hi 👋, I'm Dogukan</h1>
 <h3 align="center">A passionate nerd from Germany</h3>
 
 - 🔭 I’m currently working along the [The Odin Project](https://www.theodinproject.com/dashboard)
