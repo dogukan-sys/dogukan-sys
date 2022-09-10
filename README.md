@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dogukan</h1>
 <h3 align="center">A passionate geek from Germany</h3>
 
-- 🔭 I’m currently working along the [The Odin Project](https://www.theodinproject.com/dashboard)
+- 🔭 I’m currently learning through the [The Odin Project](https://www.theodinproject.com/)
 
-- 🌱 I’m currently learning **HTML, CSS, JS, NodeJS**
+- 🌱 I'm currently looking to get a tech job
 
 - 📫 How to reach me **dogukan.karademir@proton.me**
 
