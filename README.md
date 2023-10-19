@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dogukan</h1>
-<h3 align="center">A passionate geek from Germany</h3>
+<h3 align="center">A passionate guy from Germany</h3>
 
-- 🔭 I’m currently learning through the [The Odin Project](https://www.theodinproject.com/)
-
-- 🌱 I'm currently looking to get a tech job
+- 🌱 I'm currently an Apprentice at Rhenus Assets & Service
 
 - 📫 How to reach me **dogukan.karademir@proton.me**
 
@@ -12,5 +10,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukan-sys&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="dogukan-sys" /></p>
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dogukan)](https://github.com/anuraghazra/github-readme-stats)
