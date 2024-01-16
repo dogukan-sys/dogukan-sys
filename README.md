@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dogukan</h1>
 <h3 align="center">A passionate guy from Germany</h3>
 
-- 🌱 I'm currently an Apprentice at Rhenus Assets & Service
+- 🌱 I'm currently learning using The Odin Project
 
 - 📫 How to reach me **dogukan.karademir@proton.me**
 
